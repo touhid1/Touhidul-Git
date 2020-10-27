@@ -1,6 +1,6 @@
 #### Hi there 😎
 # I'm Touhidul Islam  
-# Full Stack Web Application Developer
+# Junior  Web Developer
 <p>From Patuakhali, Dhaka, Banngladesh</p> 
 <p>I have a great thirst for learning and believe in continuous improvement. I speak fluently in Python and JavaScript.</p>
 
