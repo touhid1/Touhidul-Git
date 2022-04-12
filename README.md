@@ -81,4 +81,4 @@ Nice to meet you, I'm Md Touhedul islam
 
 </p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=touhid1.touhid1" alt="touhid1 :: Visitor's Count" /></p>
