@@ -8,10 +8,6 @@ Nice to meet you, I'm Md Touhedul islam
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
-- 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
-    - Overthinks thinking to not to overthink 🙂
-    - Hayat nedir, canım? ( Ahh, Learning Turkish out of curiosity ) 🙃
     
 <br>
 
