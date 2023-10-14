@@ -1,5 +1,5 @@
 # Peace! Those who are founded on guidance. 
-<h2 align="start">I am MD Touhedul Islam. You're welcome!!!</h2>
+<h2 >I am MD Touhedul Islam. You're welcome!!!</h2>
 
 <h4>I am a passionate Software Quality Assurance Engineer from Bangladesh. In the last 01 year, I have been practicing as a Software Test Engineer. I use Testrail for writing test cases, jira or Trello tool for project management purposes, java, selenium, maven, TestNG, page object model, data-driven, page factory, and generate allure reports for both mobile and web automation and extent reports, use Postman for API testing and apache Jmeter for performance testing. 
 
