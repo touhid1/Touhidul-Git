@@ -8,9 +8,9 @@
 [Profile Summary](https://profile-summary-for-github.com/user/touhid1)
 
 ## 📊 GitHub Stats:
-<img  src="https://github-readme-stats.vercel.app/api?username=touhid1&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=touhid1&theme=react" width="48%" >
-<br>
+![](https://github-readme-stats.vercel.app/api?username=touhid1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=touhid1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
