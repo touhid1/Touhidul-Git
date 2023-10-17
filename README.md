@@ -25,7 +25,7 @@
 <li>👩‍💻Security Testing Tool-->Nmap</li>
 <li>👩‍💻Web Development Technologies</li>
 <li>👩‍💻Prgramming Language--> Java,JavaScript</li>
-<li>👩‍💻Database--> MySQL, MS Sql Server
+<li>👩‍💻Database--> MySQL, MongoDB
 </li>
 
 
